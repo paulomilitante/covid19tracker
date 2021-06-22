@@ -1,0 +1,7 @@
+export const GET_STATS = 'GET_STATS'
+export const SORT_BY_CASES = 'SORT_BY_CASES'
+export const SORT_BY_NAME = 'SORT_BY_NAME'
+export const SORT_BY_DEATHS = 'SORT_BY_DEATHS'
+
+export const GET_COUNTRY_STATS = 'GET_COUNTRY_STATS'
+export const CLEAR_COUNTRY_STATS = 'CLEAR_COUNTRY_STATS'
