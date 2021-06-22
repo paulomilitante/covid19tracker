@@ -14,7 +14,7 @@ export default function StatChart(props) {
   const countryStats = useSelector(state => state.countryStats)
   const { stats } = countryStats
 
-  const contentInset = { top: 0, bottom: 20 }
+  const contentInset = { top: 10, bottom: 20 }
 
   return (
     <View style={styles.container}>
