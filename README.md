@@ -17,11 +17,11 @@ $ npm install --global expo-cli
 ## Usage
 Install modules before running the app in Expo.
 
-#### NPM
+#### If using NPM
 ```bash
 $ npm install
 ```
-#### Yarn
+#### If using Yarn
 ```bash
 $ yarn install
 ```
